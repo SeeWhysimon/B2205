@@ -22,11 +22,11 @@ Welcome to the diary of B2205 family🏠!
 
 ### 对TA的悄悄话🤫
 
-选择secret_talk文档，写下你对TA的悄悄话👻～
+选择secret_talk文件夹📁，添加file并以TA的名字命名，写下你对TA的悄悄话👻～
 
 ### 现在的生活🚶🏻
 
-选择current_life文档，分享现在的生活哦🥳
+选择current_life文件夹，添加file并以你的名字命名，分享现在的生活哦🥳
 
 ## Last but never the least-写在最后
 
