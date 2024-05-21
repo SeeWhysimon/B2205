@@ -110,24 +110,35 @@ h1 {
 }
 
 .addBtn {
-    background-color: #add8e6;
+    left: 20px;
+    text-decoration: none;
     color: black;
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #87ceeb;
+    border-radius: 5px;
+    background-color: #87ceeb;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .addBtn:hover {
     background-color: #87ceeb;
+    color: white;
 }
 
 .uploadBtn {
-    background-color: #add8e6;
+    left: 20px;
+    text-decoration: none;
     color: black;
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #87ceeb;
+    border-radius: 5px;
+    background-color: #87ceeb;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .uploadBtn:hover {
     background-color: #87ceeb;
-}
-.btn:hover {
-    background-color: #87ceeb;
+    color: white;
 }
