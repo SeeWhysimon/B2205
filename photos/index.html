@@ -13,9 +13,24 @@
             <a href="../index.html" class="back-link">👈回到教室</a>
             <h1>照片📷</h1>
         </div>
-        <div class="add-photo">
+        <div class="addPhotoBtn" id="addPhotoBtn">
             <span>+</span>
         </div>
     </div>
+
+    <!-- Popup structure -->
+    <div id="photoPopup" class="popup">
+        <div class="popup-content">
+            <span class="closeBtn">❎</span>
+            <p>添加新照片</p>
+            <div class="photo-preview" id="photoPreview"></div>
+            <div class="popup-footer">
+                <div id="addBtn" class="addBtn">放进相册👇</div>
+                <div id="uploadBtn" class="uploadBtn">上传👆</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="photos.js"></script>
 </body>
 </html>
